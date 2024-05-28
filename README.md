@@ -9,7 +9,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-316192?style=for-the-badge&logo=nosql&logoColor=white" />
 
-  <img alt="Keras" src="(https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" />
