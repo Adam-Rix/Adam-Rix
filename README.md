@@ -1,4 +1,4 @@
-<h1>Greetings wanderer.</h1>
+<h1>Greetings wanderer</h1>
 
 <p>Welcome to my page! </br> I'm Adam, Data Analyst and Python Developer from <img src="https://img.shields.io/badge/EU-003399.svg?style=flat&logo=european-union&logoColor=white" /><b></b></p>
 <h3>Things I code with</h3>
