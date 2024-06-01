@@ -18,7 +18,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img alt="RestAPI" src="https://img.shields.io/badge/REST-02569B.svg?style=flat&logo=rest&logoColor=white"/>
+  <img alt="RestAPI" src="https://img.shields.io/badge/RestAPI-02569B.svg?style=flat&logo=rest&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   
