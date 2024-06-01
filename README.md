@@ -32,6 +32,7 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
+  <img alt="Eclipse Mars" src="https://img.shields.io/badge/Eclipse_Mars-2C2255.svg?style=flat&logo=eclipse&logoColor=white"/>
 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
