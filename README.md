@@ -4,9 +4,12 @@
 <h3>Things I code with</h3>
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    
+
+  <img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_Workbench-%2300A3E0.svg?style=flat&logo=mysql&logoColor=white"/>  
   <img alt="SQL" src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-316192?style=for-the-badge&logo=nosql&logoColor=white"/>
+
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-%236C4F7C.svg?style=flat&logo=robot&logoColor=white"/>
 
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
@@ -35,6 +38,7 @@
   <img alt="Eclipse Mars" src="https://img.shields.io/badge/Eclipse_Mars-2C2255.svg?style=flat&logo=eclipse&logoColor=white"/>
 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white"/>
 </p>
 
 <p>
