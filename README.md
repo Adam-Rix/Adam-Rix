@@ -42,5 +42,5 @@
 </p>
 
 <p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Rix&theme=vue-dark&langs_count=6&layout=compact&bg_color=292D3E&title_color=FAD000&text_color=FFFFFF"/>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Rix&theme=dracula&langs_count=6&layout=compact&bg_color=292D3E&title_color=FAD000&text_color=FFFFFF"/>
 </p>
